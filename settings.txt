@@ -1,0 +1,18 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Шахамир Турдакунов: Python разработчик и автор контента",
+"description": "Шахамир Турдакунов - портфолио, резюме и блог Python разработчика",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "Турдакунов Шахамир",
+"tag1":"Разработчик и тех-поддержка",
+"tag2":"курсов в Codify",
+"sect1":"Главная",
+"sect2":"Резюме",
+"sect3":"Портфолио",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/Wftakf",
+"facebook":"ttps://facebook.com/",
+"vk":"https://vk.com/",
+"email":"mailto:workshahamir@gmail.com",
+"city":"Бишкек"
+}
